@@ -1,0 +1,6 @@
+/hours.txt
+/node_modules
+/out
+*.pdf
+*.xml
+*.docx
